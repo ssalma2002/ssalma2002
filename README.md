@@ -6,9 +6,9 @@ Computer Engineering Ain Shams Student
 
 * 🌍  I'm based in Cairo
 * ✉️  You can contact me at [21P0148@eng.asu.edu.eg](mailto:21P0148@eng.asu.edu.eg)
-* 🚀  I'm currently working on CS50 Introduction to Python
-* 🧠  I'm learning Python and Data Science
-* 🤝  I'm open to collaborating on Data Science
+* 🚀  I'm currently working on CS50 Introduction to Python and Front End Specialization by Meta on Coursera
+* 🧠  I'm learning Python and Web Devolpment
+* 🤝  I'm open to collaborating on Flutter and Web devolpment
 
 <a href="https://www.github.com/ssalma2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ssalma2002?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
